@@ -1,0 +1,11 @@
+node package managers
+https://www.npmjs.com/
+
+EJS (Node Template)
+https://ejs.co/#install
+
+PUG (Node Template)
+https://pugjs.org/api/getting-started.html
+
+node v^14
+https://nodejs.org/en/blog/release/v14.17.3/
